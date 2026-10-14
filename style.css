@@ -1,0 +1,17 @@
+.container{
+    display: grid;
+    background-color: #e6fffb;
+    grid-template-columns: repeat(4, 1fr) 2fr;
+    gap: 10px;
+    padding: 10px;
+}
+.Item{
+    background-color: #99f6e4;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: #0f766e;
+    color: #ffffff;
+}
